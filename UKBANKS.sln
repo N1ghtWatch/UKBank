@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "UKBANKS", "UKBANKS\UKBANKS.dtproj", "{65394F54-D4EB-4678-BBF3-AF958916ADDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65394F54-D4EB-4678-BBF3-AF958916ADDE}.Development|Default.ActiveCfg = Development
+		{65394F54-D4EB-4678-BBF3-AF958916ADDE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36458B61-14A3-413F-BFDF-6B4C00C02534}
+	EndGlobalSection
+EndGlobal
